@@ -1,0 +1,6 @@
+{
+  "name": "ZAVA BANK REC",
+  "description": "Atur Keuanganmu, Wujudkan Impianmu - Aplikasi Keuangan Pribadi Offline-First Modern & Aman",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
